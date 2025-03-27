@@ -61,6 +61,7 @@ public class demofile : MonoBehaviour
 }
 ```
 ## Output:
-![arvr exp-1](https://github.com/user-attachments/assets/8066f34c-ee38-4210-b7eb-fa267960a053)
+![Screenshot 2025-03-27 124124](https://github.com/user-attachments/assets/6a170bd5-2a97-4569-b884-f85bc5343d1d)
 
 ## Result:
+Thus a 3D application for rotating the gaming objects in unity was developed
